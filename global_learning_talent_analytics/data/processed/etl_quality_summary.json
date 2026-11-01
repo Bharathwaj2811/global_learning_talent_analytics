@@ -1,0 +1,7 @@
+{
+  "raw_enrollments": 1900,
+  "curated_enrollments": 1892,
+  "quarantined_enrollments": 8,
+  "exceptions": 8,
+  "duplicate_enrollment_ids": 0
+}

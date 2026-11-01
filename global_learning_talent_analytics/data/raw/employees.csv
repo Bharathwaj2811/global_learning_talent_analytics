@@ -1,0 +1,321 @@
+employee_id,department,region,country_city,job_level,hire_date,employment_status
+E0001,Tax,APAC,Hyderabad,Manager,2021-09-30,Active
+E0002,Tax,APAC,Sydney,Director,2019-12-23,Active
+E0003,Tax,Americas,New York,Consultant,2021-08-10,Active
+E0004,People & Purpose,Americas,New York,Director,2023-09-15,Active
+E0005,Consulting,APAC,Hyderabad,Consultant,2023-09-28,Active
+E0006,Audit,Americas,Toronto,Analyst,2020-01-15,Active
+E0007,Finance,EMEA,Dublin,Director,2021-12-19,Active
+E0008,Legal,APAC,Sydney,Analyst,2023-03-31,Active
+E0009,Finance,EMEA,Frankfurt,Director,2023-01-21,Active
+E0010,Tax,APAC,Hyderabad,Consultant,2022-03-31,Leave
+E0011,Finance,Americas,New York,Senior Manager,2022-02-12,Active
+E0012,Audit,EMEA,Dublin,Manager,2021-05-08,Active
+E0013,Technology,APAC,Sydney,Analyst,2020-12-01,Active
+E0014,Audit,Americas,Toronto,Senior Manager,2022-01-10,Leave
+E0015,Technology,APAC,Sydney,Consultant,2022-08-21,Active
+E0016,Audit,Americas,New York,Manager,2023-07-02,Active
+E0017,People & Purpose,Americas,Chicago,Manager,2021-05-20,Active
+E0018,Technology,EMEA,Dublin,Consultant,2021-12-20,Active
+E0019,People & Purpose,APAC,Sydney,Manager,2025-07-22,Active
+E0020,Legal,APAC,Singapore,Consultant,2020-07-20,Active
+E0021,Finance,Americas,New York,Analyst,2020-09-18,Active
+E0022,Legal,APAC,Sydney,Analyst,2023-04-26,Active
+E0023,People & Purpose,EMEA,Dublin,Director,2019-02-17,Active
+E0024,Technology,Americas,Chicago,Manager,2022-10-25,Active
+E0025,Audit,EMEA,Dublin,Analyst,2021-12-14,Leave
+E0026,People & Purpose,Americas,New York,Manager,2024-09-10,Active
+E0027,Consulting,Americas,New York,Director,2024-12-12,Active
+E0028,Consulting,APAC,Singapore,Analyst,2020-04-03,Active
+E0029,Audit,EMEA,London,Consultant,2025-05-12,Active
+E0030,Technology,Americas,Toronto,Analyst,2024-12-21,Active
+E0031,Technology,Americas,Toronto,Director,2020-11-07,Active
+E0032,Legal,APAC,Hyderabad,Director,2021-04-03,Active
+E0033,Technology,EMEA,Frankfurt,Manager,2023-11-30,Active
+E0034,Tax,EMEA,London,Consultant,2019-09-20,Active
+E0035,People & Purpose,APAC,Hyderabad,Director,2021-06-21,Active
+E0036,Technology,APAC,Hyderabad,Consultant,2019-10-04,Active
+E0037,Tax,EMEA,Frankfurt,Consultant,2022-02-14,Active
+E0038,People & Purpose,Americas,New York,Director,2025-06-18,Active
+E0039,Finance,EMEA,Dublin,Consultant,2020-01-22,Active
+E0040,Consulting,EMEA,Dublin,Senior Manager,2024-03-27,Active
+E0041,Technology,Americas,Chicago,Analyst,2019-09-06,Active
+E0042,Finance,EMEA,London,Consultant,2021-02-23,Active
+E0043,Audit,EMEA,Dublin,Consultant,2022-02-14,Active
+E0044,Legal,Americas,Chicago,Analyst,2019-07-27,Active
+E0045,Finance,APAC,Hyderabad,Analyst,2021-08-26,Active
+E0046,Legal,EMEA,London,Senior Manager,2019-08-29,Active
+E0047,Legal,Americas,Toronto,Senior Manager,2022-03-14,Active
+E0048,Finance,APAC,Sydney,Senior Manager,2020-09-26,Active
+E0049,Tax,Americas,Chicago,Director,2019-09-07,Active
+E0050,Tax,Americas,Chicago,Senior Manager,2024-08-21,Active
+E0051,Audit,APAC,Hyderabad,Director,2019-11-25,Active
+E0052,People & Purpose,Americas,New York,Consultant,2023-07-12,Active
+E0053,Audit,APAC,Sydney,Director,2019-06-12,Active
+E0054,Technology,EMEA,Frankfurt,Director,2024-11-11,Active
+E0055,Audit,EMEA,Frankfurt,Manager,2021-09-04,Active
+E0056,Technology,Americas,Chicago,Manager,2024-02-16,Active
+E0057,Tax,Americas,Toronto,Director,2025-04-25,Leave
+E0058,People & Purpose,Americas,New York,Director,2021-12-22,Active
+E0059,Tax,EMEA,London,Manager,2022-03-13,Active
+E0060,Technology,APAC,Singapore,Director,2024-12-06,Active
+E0061,Consulting,APAC,Sydney,Analyst,2020-07-04,Active
+E0062,Technology,Americas,Chicago,Consultant,2022-01-20,Active
+E0063,Technology,Americas,Toronto,Consultant,2021-12-17,Active
+E0064,Finance,EMEA,London,Analyst,2023-10-01,Active
+E0065,Tax,Americas,Toronto,Consultant,2021-12-08,Active
+E0066,People & Purpose,EMEA,Frankfurt,Senior Manager,2025-04-16,Active
+E0067,Technology,Americas,New York,Director,2019-05-28,Active
+E0068,People & Purpose,APAC,Hyderabad,Senior Manager,2020-06-06,Active
+E0069,Finance,EMEA,London,Manager,2021-05-10,Active
+E0070,Tax,APAC,Singapore,Director,2023-07-23,Leave
+E0071,Audit,APAC,Hyderabad,Consultant,2020-12-26,Active
+E0072,Audit,Americas,Chicago,Manager,2023-08-14,Active
+E0073,Finance,APAC,Hyderabad,Manager,2020-10-14,Active
+E0074,Legal,Americas,New York,Senior Manager,2021-06-30,Active
+E0075,Consulting,EMEA,Dublin,Consultant,2021-07-02,Active
+E0076,Legal,Americas,Toronto,Manager,2019-10-12,Active
+E0077,Consulting,EMEA,Frankfurt,Director,2023-06-26,Active
+E0078,Consulting,APAC,Hyderabad,Analyst,2021-12-05,Active
+E0079,Tax,EMEA,London,Director,2023-11-15,Active
+E0080,Legal,EMEA,Frankfurt,Director,2020-04-18,Active
+E0081,Audit,APAC,Singapore,Analyst,2023-11-22,Active
+E0082,Technology,APAC,Sydney,Consultant,2023-01-31,Active
+E0083,Consulting,APAC,Sydney,Manager,2020-05-25,Active
+E0084,People & Purpose,EMEA,Dublin,Senior Manager,2022-08-29,Active
+E0085,People & Purpose,EMEA,London,Consultant,2023-09-19,Active
+E0086,Technology,EMEA,Frankfurt,Consultant,2025-05-20,Active
+E0087,Finance,APAC,Hyderabad,Manager,2022-03-21,Active
+E0088,People & Purpose,APAC,Sydney,Manager,2024-03-19,Active
+E0089,Audit,APAC,Sydney,Senior Manager,2020-11-26,Active
+E0090,People & Purpose,EMEA,Frankfurt,Director,2022-10-04,Active
+E0091,Technology,Americas,Toronto,Consultant,2021-03-26,Active
+E0092,Audit,Americas,Toronto,Director,2019-10-26,Active
+E0093,People & Purpose,APAC,Hyderabad,Senior Manager,2024-07-17,Active
+E0094,Technology,Americas,Chicago,Analyst,2020-03-12,Active
+E0095,Audit,Americas,Chicago,Director,2024-03-17,Active
+E0096,Finance,Americas,New York,Senior Manager,2020-06-30,Active
+E0097,People & Purpose,APAC,Sydney,Director,2022-07-23,Active
+E0098,People & Purpose,EMEA,Frankfurt,Director,2023-10-14,Active
+E0099,Legal,APAC,Hyderabad,Senior Manager,2024-01-18,Active
+E0100,Finance,Americas,Chicago,Manager,2024-11-05,Active
+E0101,Consulting,Americas,Toronto,Analyst,2022-03-16,Active
+E0102,Consulting,EMEA,Frankfurt,Analyst,2020-07-20,Active
+E0103,Technology,EMEA,London,Consultant,2019-09-21,Active
+E0104,People & Purpose,EMEA,Dublin,Senior Manager,2019-09-13,Active
+E0105,Legal,EMEA,Frankfurt,Analyst,2025-06-16,Active
+E0106,Consulting,Americas,Toronto,Senior Manager,2023-09-13,Active
+E0107,People & Purpose,APAC,Sydney,Consultant,2024-06-22,Active
+E0108,Legal,EMEA,London,Senior Manager,2022-10-08,Active
+E0109,Technology,EMEA,London,Senior Manager,2020-06-06,Leave
+E0110,Tax,APAC,Singapore,Director,2025-04-30,Active
+E0111,Technology,Americas,Toronto,Consultant,2024-03-06,Active
+E0112,Legal,EMEA,Dublin,Consultant,2024-02-06,Active
+E0113,Consulting,EMEA,Dublin,Manager,2019-12-02,Active
+E0114,People & Purpose,APAC,Hyderabad,Manager,2021-07-07,Active
+E0115,Tax,APAC,Hyderabad,Consultant,2021-03-27,Active
+E0116,Audit,APAC,Hyderabad,Consultant,2024-04-23,Active
+E0117,Audit,APAC,Singapore,Manager,2023-02-19,Active
+E0118,Technology,APAC,Sydney,Analyst,2020-11-01,Active
+E0119,People & Purpose,Americas,New York,Manager,2025-06-16,Active
+E0120,Legal,EMEA,Frankfurt,Consultant,2019-11-08,Active
+E0121,Audit,APAC,Hyderabad,Manager,2020-05-10,Active
+E0122,Finance,APAC,Hyderabad,Manager,2024-12-22,Active
+E0123,Tax,EMEA,Frankfurt,Manager,2019-02-21,Active
+E0124,Tax,EMEA,Dublin,Manager,2024-02-27,Active
+E0125,Audit,EMEA,Frankfurt,Director,2022-01-11,Active
+E0126,Finance,APAC,Singapore,Senior Manager,2023-11-20,Active
+E0127,Consulting,APAC,Singapore,Consultant,2019-12-21,Active
+E0128,Audit,EMEA,Dublin,Director,2023-04-02,Active
+E0129,Finance,EMEA,Dublin,Consultant,2024-06-20,Active
+E0130,Consulting,EMEA,Dublin,Director,2022-02-05,Active
+E0131,Audit,APAC,Hyderabad,Consultant,2023-07-23,Active
+E0132,Technology,Americas,Toronto,Senior Manager,2024-01-10,Active
+E0133,Consulting,Americas,New York,Senior Manager,2021-09-23,Active
+E0134,Consulting,APAC,Singapore,Director,2024-12-14,Active
+E0135,People & Purpose,APAC,Singapore,Manager,2024-02-02,Active
+E0136,Audit,EMEA,London,Consultant,2022-07-16,Active
+E0137,Finance,APAC,Sydney,Consultant,2021-02-23,Active
+E0138,Consulting,EMEA,Frankfurt,Director,2024-11-18,Active
+E0139,Finance,Americas,New York,Manager,2021-07-20,Active
+E0140,Tax,EMEA,Frankfurt,Director,2020-06-02,Active
+E0141,People & Purpose,Americas,Toronto,Consultant,2024-07-03,Active
+E0142,People & Purpose,Americas,Toronto,Senior Manager,2024-05-14,Active
+E0143,Tax,Americas,Toronto,Senior Manager,2020-04-12,Active
+E0144,Legal,EMEA,London,Director,2019-08-08,Active
+E0145,Consulting,APAC,Hyderabad,Consultant,2020-04-30,Active
+E0146,People & Purpose,EMEA,Frankfurt,Director,2021-07-13,Active
+E0147,Legal,EMEA,Dublin,Manager,2023-10-23,Active
+E0148,Tax,APAC,Sydney,Analyst,2021-05-01,Active
+E0149,Technology,EMEA,London,Consultant,2021-09-09,Active
+E0150,Audit,Americas,New York,Senior Manager,2024-01-20,Active
+E0151,Consulting,EMEA,London,Consultant,2022-03-26,Active
+E0152,Finance,APAC,Singapore,Analyst,2021-08-14,Active
+E0153,People & Purpose,APAC,Sydney,Consultant,2023-10-08,Active
+E0154,Technology,Americas,New York,Manager,2020-08-05,Active
+E0155,Finance,Americas,Toronto,Director,2025-05-20,Active
+E0156,Tax,EMEA,Dublin,Manager,2023-07-07,Active
+E0157,People & Purpose,APAC,Singapore,Senior Manager,2019-11-26,Active
+E0158,Technology,EMEA,Dublin,Director,2021-10-22,Active
+E0159,Technology,Americas,Chicago,Director,2019-03-26,Leave
+E0160,Finance,APAC,Singapore,Director,2019-06-14,Active
+E0161,Legal,Americas,Chicago,Senior Manager,2022-02-13,Active
+E0162,Legal,APAC,Sydney,Senior Manager,2020-01-09,Active
+E0163,Consulting,EMEA,Dublin,Analyst,2020-10-20,Active
+E0164,Legal,APAC,Singapore,Senior Manager,2025-03-03,Active
+E0165,Consulting,Americas,Toronto,Manager,2020-04-19,Leave
+E0166,Finance,EMEA,Frankfurt,Analyst,2025-01-31,Active
+E0167,Audit,Americas,Chicago,Manager,2024-08-03,Active
+E0168,Audit,Americas,Toronto,Director,2020-06-20,Active
+E0169,Technology,EMEA,Dublin,Analyst,2019-04-29,Leave
+E0170,Finance,APAC,Hyderabad,Consultant,2022-06-26,Active
+E0171,Legal,APAC,Hyderabad,Consultant,2020-04-09,Active
+E0172,Technology,Americas,New York,Senior Manager,2022-04-10,Active
+E0173,Legal,EMEA,Dublin,Senior Manager,2021-09-25,Active
+E0174,Legal,Americas,New York,Director,2024-09-12,Active
+E0175,Finance,Americas,New York,Manager,2023-08-27,Active
+E0176,Consulting,APAC,Hyderabad,Manager,2022-05-07,Active
+E0177,Technology,APAC,Singapore,Consultant,2024-01-04,Active
+E0178,Consulting,EMEA,Frankfurt,Director,2023-03-26,Active
+E0179,Finance,EMEA,London,Consultant,2025-05-31,Active
+E0180,Tax,EMEA,Dublin,Senior Manager,2023-04-11,Active
+E0181,Finance,APAC,Sydney,Consultant,2024-07-21,Active
+E0182,People & Purpose,Americas,Chicago,Manager,2020-02-16,Active
+E0183,Tax,EMEA,Frankfurt,Senior Manager,2019-03-04,Active
+E0184,Finance,EMEA,Frankfurt,Consultant,2019-11-03,Active
+E0185,Consulting,EMEA,Frankfurt,Senior Manager,2019-11-25,Active
+E0186,Finance,APAC,Sydney,Senior Manager,2022-07-21,Active
+E0187,Finance,EMEA,Frankfurt,Analyst,2019-10-08,Active
+E0188,Consulting,APAC,Hyderabad,Analyst,2023-11-13,Leave
+E0189,Technology,APAC,Hyderabad,Senior Manager,2020-11-12,Active
+E0190,Tax,Americas,Toronto,Analyst,2022-04-16,Active
+E0191,Audit,EMEA,London,Director,2023-08-15,Active
+E0192,Audit,Americas,New York,Analyst,2023-04-16,Active
+E0193,Legal,Americas,Chicago,Consultant,2021-08-09,Active
+E0194,Legal,EMEA,Dublin,Analyst,2024-03-20,Active
+E0195,People & Purpose,APAC,Hyderabad,Analyst,2023-12-15,Active
+E0196,Consulting,APAC,Sydney,Senior Manager,2021-10-21,Active
+E0197,Audit,EMEA,Dublin,Senior Manager,2020-03-12,Active
+E0198,Consulting,APAC,Sydney,Manager,2022-04-24,Active
+E0199,Legal,APAC,Singapore,Analyst,2025-05-07,Active
+E0200,Tax,APAC,Sydney,Senior Manager,2022-03-18,Active
+E0201,People & Purpose,Americas,Toronto,Consultant,2021-02-17,Active
+E0202,Finance,APAC,Sydney,Consultant,2020-02-02,Active
+E0203,Tax,APAC,Singapore,Senior Manager,2019-05-17,Active
+E0204,Audit,APAC,Hyderabad,Manager,2022-08-31,Active
+E0205,Audit,Americas,New York,Director,2023-02-07,Active
+E0206,Finance,EMEA,London,Manager,2024-05-27,Active
+E0207,Technology,EMEA,Dublin,Analyst,2024-04-02,Active
+E0208,Finance,Americas,New York,Senior Manager,2025-04-01,Active
+E0209,Tax,EMEA,Dublin,Director,2020-05-21,Active
+E0210,Technology,APAC,Sydney,Manager,2025-07-22,Active
+E0211,Consulting,APAC,Hyderabad,Consultant,2024-04-15,Active
+E0212,Consulting,APAC,Sydney,Consultant,2019-09-16,Active
+E0213,Technology,EMEA,Dublin,Senior Manager,2020-04-22,Active
+E0214,Consulting,Americas,Toronto,Analyst,2020-02-03,Active
+E0215,Audit,APAC,Singapore,Senior Manager,2023-02-28,Active
+E0216,Technology,APAC,Sydney,Senior Manager,2020-09-24,Active
+E0217,Tax,APAC,Singapore,Director,2023-07-30,Active
+E0218,Tax,EMEA,Frankfurt,Manager,2021-06-08,Active
+E0219,Finance,Americas,Toronto,Analyst,2023-02-13,Active
+E0220,Consulting,APAC,Hyderabad,Senior Manager,2022-02-04,Active
+E0221,Finance,Americas,Toronto,Analyst,2021-05-18,Active
+E0222,Tax,APAC,Hyderabad,Manager,2021-09-24,Leave
+E0223,Audit,APAC,Hyderabad,Director,2021-04-28,Active
+E0224,Consulting,Americas,New York,Director,2019-01-12,Active
+E0225,Audit,Americas,Chicago,Manager,2020-12-15,Active
+E0226,Audit,Americas,New York,Manager,2021-09-01,Active
+E0227,Audit,Americas,Toronto,Analyst,2020-06-03,Active
+E0228,Tax,APAC,Sydney,Analyst,2024-05-04,Active
+E0229,People & Purpose,EMEA,Frankfurt,Analyst,2024-01-26,Active
+E0230,Tax,APAC,Sydney,Director,2022-05-20,Active
+E0231,Tax,Americas,Toronto,Senior Manager,2023-10-13,Active
+E0232,Technology,EMEA,Dublin,Analyst,2019-11-27,Active
+E0233,Tax,Americas,New York,Manager,2025-07-25,Active
+E0234,Legal,EMEA,Frankfurt,Director,2022-04-22,Active
+E0235,Legal,APAC,Hyderabad,Analyst,2025-03-08,Active
+E0236,Legal,Americas,Toronto,Consultant,2023-08-22,Active
+E0237,Legal,EMEA,Dublin,Analyst,2022-07-04,Active
+E0238,Consulting,APAC,Singapore,Consultant,2024-04-26,Active
+E0239,Tax,Americas,Toronto,Analyst,2023-03-07,Active
+E0240,Tax,APAC,Sydney,Director,2025-04-19,Active
+E0241,Legal,Americas,Toronto,Senior Manager,2019-07-30,Active
+E0242,Consulting,APAC,Singapore,Analyst,2025-06-25,Active
+E0243,Technology,Americas,Toronto,Consultant,2020-03-19,Active
+E0244,Consulting,APAC,Hyderabad,Manager,2025-06-09,Active
+E0245,Finance,EMEA,Frankfurt,Director,2025-03-30,Active
+E0246,Finance,APAC,Sydney,Manager,2019-04-29,Active
+E0247,Finance,APAC,Singapore,Manager,2022-12-08,Active
+E0248,People & Purpose,Americas,Chicago,Senior Manager,2019-10-13,Active
+E0249,Tax,APAC,Hyderabad,Director,2021-05-31,Active
+E0250,Consulting,EMEA,London,Manager,2022-06-30,Active
+E0251,People & Purpose,APAC,Hyderabad,Analyst,2020-09-29,Active
+E0252,Tax,APAC,Sydney,Analyst,2022-01-19,Active
+E0253,Legal,EMEA,Frankfurt,Senior Manager,2023-08-24,Active
+E0254,Tax,APAC,Singapore,Senior Manager,2020-03-30,Active
+E0255,People & Purpose,APAC,Singapore,Director,2022-06-17,Active
+E0256,People & Purpose,EMEA,London,Analyst,2021-04-17,Active
+E0257,Finance,Americas,New York,Manager,2022-03-31,Active
+E0258,Legal,Americas,Chicago,Senior Manager,2020-12-20,Active
+E0259,Technology,APAC,Hyderabad,Director,2025-04-07,Active
+E0260,Tax,EMEA,Dublin,Analyst,2023-11-22,Active
+E0261,Finance,Americas,Toronto,Director,2023-10-25,Active
+E0262,Technology,APAC,Singapore,Manager,2020-04-16,Active
+E0263,Audit,EMEA,Frankfurt,Senior Manager,2023-01-22,Active
+E0264,Audit,Americas,Toronto,Director,2023-06-29,Active
+E0265,Finance,EMEA,Dublin,Manager,2021-06-26,Active
+E0266,Tax,Americas,Chicago,Analyst,2024-12-13,Active
+E0267,Consulting,EMEA,Frankfurt,Consultant,2021-08-25,Active
+E0268,Audit,EMEA,London,Director,2020-09-18,Active
+E0269,Tax,APAC,Hyderabad,Senior Manager,2024-03-15,Active
+E0270,Legal,APAC,Sydney,Director,2022-08-16,Active
+E0271,Consulting,APAC,Hyderabad,Senior Manager,2019-10-07,Active
+E0272,Consulting,APAC,Singapore,Director,2019-08-19,Active
+E0273,Consulting,Americas,Toronto,Senior Manager,2019-06-04,Active
+E0274,Tax,EMEA,Frankfurt,Analyst,2024-09-07,Active
+E0275,People & Purpose,APAC,Sydney,Analyst,2024-01-17,Active
+E0276,Technology,APAC,Hyderabad,Manager,2024-05-02,Active
+E0277,Legal,Americas,New York,Manager,2019-12-12,Active
+E0278,Tax,Americas,New York,Senior Manager,2023-12-05,Active
+E0279,Audit,APAC,Singapore,Manager,2022-03-04,Active
+E0280,Technology,EMEA,Frankfurt,Analyst,2022-10-02,Active
+E0281,People & Purpose,Americas,Chicago,Senior Manager,2022-03-09,Active
+E0282,People & Purpose,APAC,Hyderabad,Manager,2019-11-30,Active
+E0283,Consulting,Americas,Toronto,Senior Manager,2020-06-12,Active
+E0284,Consulting,Americas,Chicago,Senior Manager,2022-09-07,Active
+E0285,Technology,APAC,Sydney,Director,2020-01-18,Active
+E0286,People & Purpose,EMEA,Dublin,Analyst,2023-01-25,Active
+E0287,Consulting,Americas,Toronto,Consultant,2021-07-16,Leave
+E0288,Tax,Americas,Toronto,Analyst,2024-09-10,Active
+E0289,People & Purpose,APAC,Hyderabad,Manager,2020-06-20,Active
+E0290,Audit,Americas,New York,Director,2020-11-09,Active
+E0291,Legal,Americas,Toronto,Consultant,2023-12-25,Active
+E0292,Finance,APAC,Singapore,Consultant,2024-12-27,Active
+E0293,Finance,EMEA,London,Manager,2025-05-25,Leave
+E0294,Finance,EMEA,Dublin,Senior Manager,2024-08-21,Active
+E0295,Finance,Americas,New York,Director,2020-07-20,Active
+E0296,Technology,Americas,Toronto,Manager,2025-03-21,Active
+E0297,Finance,APAC,Sydney,Analyst,2022-03-13,Active
+E0298,Consulting,Americas,Toronto,Director,2020-08-26,Active
+E0299,Audit,Americas,Toronto,Manager,2019-04-20,Active
+E0300,People & Purpose,EMEA,Dublin,Consultant,2023-05-01,Leave
+E0301,Audit,EMEA,London,Manager,2020-02-10,Active
+E0302,Consulting,APAC,Hyderabad,Consultant,2019-06-06,Active
+E0303,Technology,EMEA,London,Senior Manager,2024-01-12,Active
+E0304,Tax,Americas,Toronto,Consultant,2020-09-04,Active
+E0305,People & Purpose,APAC,Sydney,Senior Manager,2020-03-31,Active
+E0306,Consulting,Americas,New York,Analyst,2021-09-03,Active
+E0307,Legal,APAC,Hyderabad,Analyst,2024-08-09,Active
+E0308,Technology,Americas,Chicago,Director,2021-09-17,Active
+E0309,Legal,EMEA,London,Director,2022-12-16,Active
+E0310,Audit,EMEA,Frankfurt,Analyst,2024-11-14,Leave
+E0311,People & Purpose,Americas,Chicago,Director,2024-09-10,Active
+E0312,Finance,EMEA,Dublin,Analyst,2023-05-04,Leave
+E0313,Technology,EMEA,London,Manager,2019-10-04,Active
+E0314,Technology,APAC,Sydney,Analyst,2025-07-11,Active
+E0315,Audit,EMEA,London,Manager,2025-02-14,Active
+E0316,Audit,APAC,Sydney,Senior Manager,2024-05-14,Active
+E0317,Tax,Americas,Chicago,Senior Manager,2019-06-01,Active
+E0318,Finance,Americas,New York,Analyst,2022-07-16,Active
+E0319,Legal,APAC,Sydney,Senior Manager,2021-11-03,Active
+E0320,Audit,APAC,Singapore,Manager,2019-07-15,Active

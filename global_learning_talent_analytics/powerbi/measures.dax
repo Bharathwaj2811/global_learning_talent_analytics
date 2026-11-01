@@ -1,0 +1,69 @@
+-- Create measures in Power BI after importing dim_employee, dim_course, fact_enrollment.
+Total Enrollments = COUNTROWS(fact_enrollment)
+
+Completed Enrollments =
+CALCULATE([Total Enrollments], fact_enrollment[status] = "Completed")
+
+Completion Rate =
+DIVIDE([Completed Enrollments], [Total Enrollments], 0)
+
+In Progress Enrollments =
+CALCULATE([Total Enrollments], fact_enrollment[status] = "In Progress")
+
+Not Started Enrollments =
+CALCULATE([Total Enrollments], fact_enrollment[status] = "Not Started")
+
+Total Learning Hours = SUM(fact_enrollment[completed_hours])
+
+Average Learning Hours per Enrolment =
+DIVIDE([Total Learning Hours], [Total Enrollments], 0)
+
+Average Feedback =
+CALCULATE(AVERAGE(fact_enrollment[feedback_rating]),
+          fact_enrollment[status] = "Completed")
+
+Average Assessment Score =
+CALCULATE(AVERAGE(fact_enrollment[assessment_score]),
+          fact_enrollment[status] = "Completed")
+
+Mandatory Enrollments =
+CALCULATE([Total Enrollments], dim_course[mandatory_flag] = 1)
+
+Mandatory Completion Rate =
+DIVIDE(
+    CALCULATE([Completed Enrollments], dim_course[mandatory_flag] = 1),
+    [Mandatory Enrollments], 0
+)
+
+Overdue Open Enrollments =
+CALCULATE(
+    [Total Enrollments],
+    fact_enrollment[status] <> "Completed",
+    fact_enrollment[due_date] < TODAY(),
+    dim_course[mandatory_flag] = 1
+)
+
+Unique Learners = DISTINCTCOUNT(fact_enrollment[employee_id])
+
+Learner Participation Rate =
+DIVIDE([Unique Learners], DISTINCTCOUNT(dim_employee[employee_id]), 0)
+
+Data Quality Exceptions = COUNTROWS(data_quality_exceptions)
+
+Raw Record Count =
+COUNTROWS(fact_enrollment) +
+DISTINCTCOUNT(data_quality_exceptions[enrollment_id])
+
+Affected Raw Records =
+DISTINCTCOUNT(data_quality_exceptions[enrollment_id])
+
+Data Quality Pass Rate =
+1 - DIVIDE([Affected Raw Records], [Raw Record Count], 0)
+
+Completion Status =
+SWITCH(TRUE(),
+    fact_enrollment[status] = "Completed", "Complete",
+    fact_enrollment[status] = "In Progress", "In progress",
+    fact_enrollment[status] = "Not Started", "Not started",
+    "Other"
+)

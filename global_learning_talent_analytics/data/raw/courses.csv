@@ -1,0 +1,13 @@
+course_id,course_name,learning_category,duration_hours,mandatory_flag,course_owner,delivery_mode,active_flag
+L001,Ethics & Independence,Compliance,2.0,True,Global Learning,Classroom,True
+L002,Data Privacy Essentials,Compliance,1.5,True,Global Learning,Classroom,True
+L003,Inclusive Leadership,Leadership,3.0,False,Global Learning,Virtual,True
+L004,Power BI for Business Reporting,Technical,6.0,False,Global Learning,Classroom,True
+L005,Excel Advanced Analytics,Technical,4.0,False,Global Learning,Blended,True
+L006,Client Service Excellence,Professional Skills,2.0,False,Global Learning,Blended,True
+L007,Cybersecurity Awareness,Compliance,1.0,True,Global Learning,Blended,True
+L008,Coaching for Performance,Leadership,3.0,False,Global Learning,Blended,True
+L009,AI Fundamentals,Technical,4.0,False,Global Learning,Classroom,True
+L010,Global Tax Update,Technical,2.0,False,Global Learning,Self-paced,True
+L011,Project Management Essentials,Professional Skills,3.0,False,Global Learning,Blended,True
+L012,Respectful Workplace,Compliance,1.5,True,Global Learning,Blended,True
